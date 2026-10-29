@@ -5,7 +5,7 @@
 /*:
  * @target MZ
  * @plugindesc Tela de créditos com rolagem automática e botão no menu inicial.
- * @author Você
+ * @author ymdntsk
  *
  * @help
  * ============================================================================
